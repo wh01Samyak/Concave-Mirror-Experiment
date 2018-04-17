@@ -13,3 +13,7 @@ A 3d animation to show real and imaginary image formation using a concave mirror
 --It can also be seen that images can only be seen from some angle on the mirror and that images appear differently from different viewing angles.
 
 --See the simulation @ https://wh01samyak.github.io/Concave-Mirror-Experiment/
+
+<img src="./ExperimentImages/Real.jpg">
+<img src="./ExperimentImages/Imaginary.jpg">
+<img src="./ExperimentImages/Transition.jpg">
