@@ -14,6 +14,6 @@ A 3d animation to show real and imaginary image formation using a concave mirror
 
 --See the simulation @ https://wh01samyak.github.io/Concave-Mirror-Experiment/
 
-<img src="./ExperimentImages/Real.jpg">
-<img src="./ExperimentImages/Imaginary.jpg">
-<img src="./ExperimentImages/Transition.jpg">
+<img src="Screenshot from 2018-04-10 19-19-04.png">
+<img src="Screenshot from 2018-04-10 19-19-16.png">
+<img src="Screenshot from 2018-04-10 19-19-29.png">
